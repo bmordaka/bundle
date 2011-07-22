@@ -1,2 +1,2 @@
-Bundle README2
+Bundle README
 ============
